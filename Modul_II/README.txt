@@ -1,1 +1,1 @@
-Hier findest Du die Thema Beispiele und Aufgaben
+Hier findest Du die Themabezogenen Beispiele und Aufgaben
