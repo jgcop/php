@@ -1,2 +1,2 @@
 # php
-Aufgaben und Beispiele für PHP
+Aufgaben und Beispiele für PHP in den entsprechenden Modulen
